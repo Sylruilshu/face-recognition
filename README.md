@@ -1,6 +1,6 @@
 # Face Recognition
 
-
+[![pre-commit hooks](https://github.com/Sylruilshu/face-recognition/actions/workflows/ci.yaml/badge.svg)](https://github.com/Sylruilshu/face-recognition/actions/workflows/ci.yaml)
 
 ## Overview
 
