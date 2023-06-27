@@ -4,7 +4,7 @@
 
 ## Overview
 
-Facial recognition application that makes use of machine learning to train, validate and detect faces in images
+Facial recognition application that makes use of machine learning to train, validate and detect faces in images.
 
 Walkthrough - https://realpython.com/face-recognition-with-python/?utm_source=notification_summary&utm_medium=email&utm_campaign=2023-04-24
 
